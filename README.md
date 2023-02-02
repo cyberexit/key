@@ -8,4 +8,4 @@
 - chmod +*
 - python module.py
 
-Enjoy 🎉 hacking ‼️
+Enjoy 🎉 your hacking ‼️
