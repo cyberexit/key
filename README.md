@@ -7,7 +7,7 @@
 - cd key
 - chmod +x module.py
 - chmod +x key
-- python module.py
+- python2 module.py
 
 # Enjoy 🎉 your hacking ‼️
 
