@@ -1,6 +1,6 @@
 # key installation...
 
-- rm - rf key
+- rm -rf key
 - apt update && apt upgrade -y
 - pkg install git -y
 - git clone https://github.com/cyberexit/key
