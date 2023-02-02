@@ -9,7 +9,8 @@
 - chmod +x key
 - python module.py
 
-Enjoy 🎉 your hacking ‼️
+# Enjoy 🎉 your hacking ‼️
 
-connect your key ......
+# connect your key ......
+- cd key
 - php key
