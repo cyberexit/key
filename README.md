@@ -5,9 +5,10 @@
 - pkg install git -y
 - git clone https://github.com/cyberexit/key
 - cd key
+- git pull
 - chmod +x module.py
 - chmod +x key
-- python2 module.py
+- python module.py
 
 # Enjoy 🎉 your hacking ‼️
 
