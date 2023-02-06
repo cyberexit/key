@@ -102,7 +102,7 @@ slowprint('''\033[95m|             Welcome To Hackers World            |
 | Watch Ours Tutorials For Learn Ethical Hacking  |''')
 print("+-------------------------------------------------+")
 
-os.system("xdg-open https://youtube.com/@cybersecurityhacker9921")
+os.system("xdg-open https://facebook.com/groups/658498695902684/")
 os.system("clear")
 			
 input("\n\nSay it's me Mr Rakib signing out>> ")
